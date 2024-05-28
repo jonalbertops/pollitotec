@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+}
+
+body{ 
+    background: rgb(0, 255, 64);
+    color: rgba(26, 7, 18, 0.959);
+   
+}
+
+ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+}
+
+.header{
+    background:white;
+    color: brown;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header li{
+    height: inherit;
+}
+
+.header a{
+    color: rgb(175, 5, 5);
+    text-decoration: none;
+    
+}
+
+.logo img{
+    width: 100px;
+}
+
+.menu{
+    height: inherit;
+}
+
+#principal{
+    background-color: rgba(255, 0, 21, 0.849);
+    color: rgba(9, 255, 0, 0.849);
+    padding: 20px;
+}
+
+#segunda{
+
+    background-color: rgb(255, 251, 0);
+    color: rgb(255, 0, 0);
+    text-align: right; 
+    padding: 50px 100px
+    
+}
+
+#tercera{
+  text-align: left padding ; 
+  padding: 25px 50px 200px 100px;
+}
